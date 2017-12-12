@@ -377,11 +377,12 @@ footer .theme-by {
   height: 192px;
   width: 192px;
   margin-top: -35px;
-  filter: grayscale(90%);
+  /*filter: grayscale(90%);*/
 }
+/*
 .post-image:hover {
   filter: grayscale(0%);
-}
+}*/
 .post-image img {
   border-radius: 100px;
   height: 192px;
@@ -748,4 +749,13 @@ td.gutter {
 
 .gist, .gist-file table tr td {
   border: unset;
+}
+
+.image-wrapper {
+    text-align: center;
+}
+
+.image-caption {
+    color: #808080;
+    margin-top: 5px;
 }
