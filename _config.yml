@@ -23,6 +23,9 @@ description: Ops/ Networking / Security
 
 # List of links in the navigation bar
 navbar-links:
+  Blog:
+    - Travel: "travel"
+    - Tech: "tech"
   About Me: "about"
   Tags: "tags"
 
@@ -129,7 +132,7 @@ title-separator: "-"
 timezone: "Asia/Kolkata"
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /:categories/:title/
 paginate: 5
 
 kramdown:
