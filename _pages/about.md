@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+image: /img/anshul_nyc.jpg
 subtitle: Why you'd want to go on a date with me
 permalink: "/about/"
 ---
@@ -11,7 +12,8 @@ Hi, my name is **Anshul Singhal** and I live in [India](https://goo.gl/maps/cGB1
 
 I'm very interested in **FOSS**, **Linux**, **Computer Networks**, **Distributed Systems**, **Security** and **DevOps**. I love
 exploring [Github](https://github.com/){:target="_blank"} and [Stackoverflow](https://stackoverflow.com/){:target="_blank"}.<br/>
-Apart from technical hobbies, I love writing poems, biking and travelling.
+
+I love to travel. You can explore my travel blog [here](/travel/). I write poems, love biking, cycling, kind of cool, huh?
 
 ### <i class="fa fa-cubes" aria-hidden="true"></i> Skills
 *Here comes a list of subjects I've worked with, grouped by topics...*
@@ -37,6 +39,15 @@ ReactJS &bull; Django &bull; PHP &bull; SCSS &bull; Jquery.
 git SCM &bull; Web Server (Nginx and Apache) &bull; DBs (MySQL, PostgresSQL) &bull; Virtualization (LXC, Docker and VMware)
 
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
+
+#### <i class="fa fa-building-o" aria-hidden="true"></i> [Goldman Sachs](https://www.goldmansachs.com/){:target="_blank"} as **Analyst** <small> <i class="fa fa-calendar" aria-hidden="true"></i> May, 2018 - Present </small>
+<span class="badge">IBD Technology</span>
+<span class="badge">Java</span>
+<span class="badge">Slang</span>
+<span class="badge">Gitlab</span>
+<span class="badge">Cloud</span>
+
+I joined Goldman Sachs, Banglore in May 2018. I work on Data and Platform in IBD (Investment Banking Division) Technology.
 
 #### <i class="fa fa-building-o" aria-hidden="true"></i> [Kayako](https://www.kayako.com/){:target="_blank"} as **Site Reliability Engineering (SRE) Intern** <small> <i class="fa fa-calendar" aria-hidden="true"></i> May, 2017 - July, 2017 </small>
 <span class="badge">AWS</span>
