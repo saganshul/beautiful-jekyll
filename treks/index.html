@@ -1,14 +1,14 @@
 ---
 layout: page
-image: /img/anshul_nyc.jpg
-title: Trails of a solo traveler
-subtitle: Travel like a traveler, not as a tourist
+image: /img/anshul_trek.jpg
+title: Finder's Treks log
+subtitle: I like being near the top of a mountain. One can’t get lost here.
 use-site-title: true
 ---
 
 <div class="posts-list">
   {% for post in site.posts %}
-  {% if post.categories contains 'travel' %}
+  {% if post.categories contains 'trek' %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>

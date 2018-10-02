@@ -26,6 +26,7 @@ navbar-links:
   Blog:
     - Travel: "travel"
     - Tech: "tech"
+    - Treks: "treks"
   About Me: "about"
   Tags: "tags"
 
