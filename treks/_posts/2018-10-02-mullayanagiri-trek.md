@@ -16,8 +16,9 @@ tags: [chikmagalur, trek, mullayanagiri, homestays, coffee, western ghats]
 
 ## How to reach the starting point of the trek
 From Chikmagalur  proceed towards **Bababudangiri**, near Kaimara you have to take left turn (8 kms from Chikmagalur). You will hit Y intersection, Your left side road goes to mullayanagiri peak(direct road till peak ). If you want to trek then just move straight further 500 mts. You will find small arch towards your left. That is called **Sarpadhari**. This will be your starting point.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3881.4241014587974!2d75.72321901530275!3d13.386045490584864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbad89827a0b127%3A0x4c698379558ee0e0!2sMullayanagiri+Trek+starting+point!5e0!3m2!1sen!2sin!4v1538480824875" width="750" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3881.4241014587974!2d75.72321901530275!3d13.386045490584864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbad89827a0b127%3A0x4c698379558ee0e0!2sMullayanagiri+Trek+starting+point!5e0!3m2!1sen!2sin!4v1538480824875" allowfullscreen></iframe>
+</div>
 ## Trek Route
 The trek to the peak from Sarpadhari is a **half day** trek. The peak is at a distance of **3 KM** from the starting point and takes about **2-3 hours** to ascend. The initial part of the trek is steep, inclined at **60 degrees or more**.
 
