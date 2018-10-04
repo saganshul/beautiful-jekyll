@@ -47,7 +47,7 @@ From here on, the trail becomes less steep. Walking further, you will come acros
 > Trail is not always visible. Thank God! Google Map marks the complete trail from Sarpadhari to Mullayangiri, awesome right? You can navigate throughout the trail using your smartphone.
 
 ## Coming Back
-For descending, You can take the same route back however, I will not recommend that since trail is too steep and there are chances you might get sleep. You can also go down via the 250 odd stone steps in the hill, which takes you toward the concrete road joining Mullayanagiri foothills from Chikmagalur.
+For descending, You can take the same route back however, I will not recommend that since trail is too steep and there are chances you might get slip. You can also go down via the 250 odd stone steps in the hill, which takes you toward the concrete road joining Mullayanagiri foothills from Chikmagalur.
 
 {% include image.html
             img="/img/posts/2018-10-02-mullayanagiri-trek/down.jpg"
