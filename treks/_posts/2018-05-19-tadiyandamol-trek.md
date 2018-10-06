@@ -2,7 +2,7 @@
 layout: trek-post
 title: Tadiyandamol Trek - Highest Peak in Coorg
 categories: trek
-image: /img/posts/2018-05-19-coorg/title.jpg
+image: /img/posts/2018-05-19-coorg/coorg-trek.jpg
 share-img: /img/posts/2018-05-19-coorg/peak.jpg
 meta-description: Thadiyandamol is the highest peak in Coorg at an elevation of 1750 meters. The mountain has patches of Shola forests in the valleys.
 difficulty: Easy-Moderate
