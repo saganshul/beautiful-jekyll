@@ -90,4 +90,4 @@ Working as Web administrator at my college, I am developing and managing portals
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 
-I am presently pursuing B.Tech in Computer Science from [IIIT Hyderabad](https://www.iiit.ac.in/){:target="_blank"}.
+I completed my B.Tech in Computer Science from [IIIT Hyderabad](https://www.iiit.ac.in/){:target="_blank"}.
