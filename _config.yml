@@ -17,7 +17,7 @@ baseurl: ""
 title: Anshul Singhal
 
 # Short description of your site
-description: Ops/Networking/Security
+description: Tech/Travel/Trek
 
 # --- Navigation bar options --- #
 
@@ -27,6 +27,7 @@ navbar-links:
     - Travel: "travel"
     - Tech: "tech"
     - Treks: "treks"
+    - कविताएँ: "कविताएँ"
   About Me: "about"
   Tags: "tags"
 
